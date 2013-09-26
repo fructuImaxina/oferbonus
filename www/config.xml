@@ -9,8 +9,8 @@
        App de ofertas
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://ww.e-imaxina.com" email="info@e-imaxina.com">
+        Imaxina novas tecnoloxías
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -19,6 +19,8 @@
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
+
+    <access origin="http://oferbonus.com" subdomains="true" />
 
     <icon src="icon2.png" />
     <!--<icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
