@@ -20,7 +20,7 @@
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
 
-    <access origin="http://oferbonus.com" subdomains="true" />
+    <access origin="*" />
 
     <icon src="icon2.png" />
     <!--<icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
